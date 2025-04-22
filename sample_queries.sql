@@ -1,3 +1,9 @@
+/* List all students */
+
+SELECT *
+FROM 
+STUDENT;
+
 /*  List all students and their advisor names. */
 
 SELECT S.*, I.* 
