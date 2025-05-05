@@ -10,22 +10,22 @@ MySQL Workbench (for ER diagrams and schema design)
 
 SQL scripts for DDL, DML, and queries
 
-🧑‍🎓 STUDENTS
+STUDENTS
 student_id, name, email, dept_id, admission_date
 
-📚 COURSES
+COURSES
 course_id, title, credits, dept_id
 
-👨‍🏫 INSTRUCTORS
+INSTRUCTORS
 instructor_id, name, email, dept_id
 
-🏛️ DEPARTMENTS
+DEPARTMENTS
 dept_id, dept_name
 
-📝 ENROLLMENTS
+ENROLLMENTS
 enrollment_id, student_id, course_id, semester, grade
 
-⚙️ Core Features
+Core Features
 Student enrollment into courses
 
 
